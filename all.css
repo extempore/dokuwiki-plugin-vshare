@@ -1,15 +1,19 @@
 
 div.vshare__left {
     float: left;
-    margin-right: 1em;
+    margin: 0 1em 1em 0;
 }
 
 div.vshare__right {
     float: right;
-    margin-left: 1em;
+    margin: 0 0 1em 1em;
 }
 
 div.vshare__center {
     text-align: center;
+	margin-bottom: 1em;
 }
 
+div.vshare__none {
+    margin-bottom: 1em;
+}
